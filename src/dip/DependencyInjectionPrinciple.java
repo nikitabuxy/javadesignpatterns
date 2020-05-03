@@ -5,7 +5,7 @@ package dip;
  * Both should depend on Abstraction
  *
  */
-/
+
 public class DependencyInjectionPrinciple {
 }
 

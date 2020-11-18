@@ -13,7 +13,8 @@ public class DependencyInjectionPrinciple {
 enum RelationShip{
     PARENT,
     CHILD,
-    SIBLING
+    SIBLING,
+    TEST
 }
 
 class Person {
